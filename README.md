@@ -14,7 +14,7 @@
 
 ## 项目文件和目录说明
 
-[xinxiang-idea.md](xinxiang-idea/xinxiang-idea.md
+[xinxiang-idea.md](xinxiang-idea/xinxiang-idea.md)
 
 ## 关于许可证
 
