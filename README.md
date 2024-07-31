@@ -14,7 +14,9 @@
 
 ## 项目文件和目录说明
 
-[xinxiang-idea.md](xinxiang-idea/xinxiang-idea.md)
++ [xinxiang-idea.md](xinxiang-idea.md) 心箱现象的动画剧本
++ [心盒现象：高度依赖人工的信息推荐系统，借助多现象组合描述实现，也许能让你变强.md](心盒现象：高度依赖人工的信息推荐系统，借助多现象组合描述实现，也许能让你变强.md) 心箱现象的文字介绍
++ [lean-ore/](lean-ore/) 一些信息量比较低并且不系统的东西
 
 ## 关于许可证
 
